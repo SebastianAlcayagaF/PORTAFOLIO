@@ -1,0 +1,18 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.card-deck {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+/* Agrega esto en tu archivo style.css */
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+}
